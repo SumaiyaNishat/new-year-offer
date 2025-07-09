@@ -1,0 +1,155 @@
+.merriweather-normal {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* banner styles */
+.banner {
+    background-image: url('../images/Banner\ Image.png');
+    background-size: cover;
+    background-position: center;
+    max-width: 1320px;
+    height: 600px;   
+    margin: 50px auto ;
+    padding:50px 140px ;
+    
+    
+}
+
+.font{
+    font-size: 72px;
+    font-weight: black;
+    line-height: 95px;   
+}
+
+
+.title{
+    text-align: center;
+    color: #FFFFFF;
+    height: 246px;
+    width: 632px;
+    padding: 177px 344px;
+    font-size: 32px;   
+}
+
+.off{
+    color: red;
+    font-weight: bold;
+    font-size: 88px;
+    margin-bottom: 48px;
+
+}
+
+.offer {
+    text-align: center;
+}
+.deals{
+    font-size: 24px;
+    color: red;
+}
+.all{
+    font-size: 48px;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 48px;
+}
+
+.heading{
+    background-image: url(../images/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 1320px;
+    height: 600px;
+    margin: 120px auto;
+    display:flex ;
+    gap: 40px;
+    justify-content: space-between;
+}
+
+.title1{
+    font-size: 64px;
+    font-weight: black;
+    color: #FFFFFF;
+    padding: 126px 94px 24px 126px;
+    line-height: 80px;
+    letter-spacing: 11%;
+}
+.some{
+    font-size: 18px;
+    color: #FFFFFF;
+    padding-left: 126px ;
+    line-height: 30px;
+}
+.images2{ 
+    padding: 68px 138px;
+}
+.btn{
+    font-family: inter;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 48px 158px;
+    line-height: auto;
+}
+
+.some-info{
+   background-color: rgba(255, 0, 0, 0.1);
+   margin: 120px auto;
+   padding: 100px 385px;
+   text-align: center;
+   line-height: 56px;
+   font-size: 32px;
+   font-weight: 600px;
+   border-radius: 16px;
+   max-width: 1320px;
+   height: 482px;
+   
+}
+.info{
+    padding: 110px 385px;
+    height: 272px;
+    width: 549px;
+}
+
+span{
+    color: red;
+}
+
+.button{
+    background-color: #FF0000;
+    border-radius: 8%;
+    padding: 16px 32px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #FFFFFF;
+    margin-top: 48px;
+    height: 56px;
+    width: 167px;
+}
+
+.coming-offers{
+    display: flex;
+    justify-content: space-between;
+    gap: 70px;
+    max-width: 1320px;
+    height: 463px;
+    margin: 120px auto;
+
+
+}
+
+.title3{
+
+}
+
+
